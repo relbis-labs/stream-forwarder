@@ -1,0 +1,10 @@
+{
+    "extract_dir": "Stream-Forwarder",
+    "bin": [
+        [ "Stream-Forwarder.exe", "stream-forwarder", "" ]
+    ],
+    "license": "MIT",
+    "hash": "28e3fd5ff0dd2435bbe12b047034aa746dc79bdee88bb89a20fdcab4dc86bac3",
+    "version": "1.0.0.17",
+    "url": "https://github.com/relbis-labs/stream-forwarder/releases/download/v1.0.0.17/Stream-Forwarder_1.0.0.17.zip"
+}
