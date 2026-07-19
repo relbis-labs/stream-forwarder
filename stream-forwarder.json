@@ -1,10 +1,15 @@
 {
-    "extract_dir": "stream-forwarder",
-    "bin": [
-        [ "stream-forwarder.exe", "stream-forwarder", "" ]
-    ],
-    "license": "MIT",
-    "hash": "10e5b0e49a0eb434386a197e712774f7c5b134d3c6924af380ff28754444d90b",
-    "version": "1.0.0.18",
-    "url": "https://github.com/relbis-labs/stream-forwarder/releases/download/v1.0.0.18/stream-forwarder_1.0.0.18.zip"
+  "homepage": "https://labs.relbis.com/products/stream-forwarder",
+  "extract_dir": "stream-forwarder",
+  "bin": [
+    [
+      "stream-forwarder.exe",
+      "stream-forwarder",
+      ""
+    ]
+  ],
+  "license": "MIT",
+  "hash": "a471d24794444b0355679b84283e7579a4784ccfc826a2359ac75543d166127b",
+  "version": "1.1.0.24",
+  "url": "https://github.com/relbis-labs/stream-forwarder/releases/download/v1.1.0.24/stream-forwarder_1.1.0.24.zip"
 }
